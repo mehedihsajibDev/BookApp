@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fojor">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+        <TextView
+            android:padding="20sp"
+            android:layout_marginTop="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="ফজরের ২ রাকাত সুন্নত নামাজের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা রাকয়াতাই সালাতিল ফাজরি, সুন্নাতু রাসুলিল্লা-হি তাআলা মুতাও য়াজজিহান্ ইলা জিহাতিল কা’বাতিশ শারীফাতি আল্লাহু আক্বার।)
+
+\n\nফজরের ২ রাকাত ফরজ নামাজের নিয়ত\n\n
+
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা রাকয়াতাই সালাতিল ফাজরি, ফারজুল্লা-হি তায়ালা মুতাওয়াজজিহান ইলা জিহাতিল কা’বাতিশ শারীফাতি আল্লাহু আকবার।)
+
+\n\nবিশেয় দ্রষ্টব্যঃ ইমামতি করিতে-আনা ইমামুল্লিমান হাজারা ও মাইয়্যাফজুরু সহ মুতাওয়াজ্জিহান বলতে হবে আর ইমামের পিছনে নামাজ পড়িতে হলে বলতে হবে(এক্তাদাইতু বিহা-যাল ইমামি মুতা ওয়াজ্জিহান…)"
+
+            android:textColor="#000"
+            android:textSize="20sp" />
+</LinearLayout>
+    </ScrollView>
+</LinearLayout>

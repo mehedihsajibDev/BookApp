@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Kafirun">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="\n\nসুরা-কাফিরুন\n\n
+আরবি সূরাঃ\n\n
+
+قُلْ يَا أَيُّهَا الْكَافِرُونَ
+لَا أَعْبُدُ مَا تَعْبُدُونَ
+وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ
+وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ
+وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ
+لَكُمْ دِينُكُمْ وَلِيَ دِينِ
+
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n
+ক্বুল ইয়া আইয়্যুহাল কাফিরুন। লা আ'বুদু মা তা'বুদ। ওয়ালা আনতুম আ'বিদুনা মা আ'বূদ। ওয়ালা আনা আ'বিদুম্মা আবাত্তুম। ওয়ালা আনতুম আ'বিদুনা মা আ'বুদ। লাকুম দ্বীনুকুম ওয়ালিয়াদ্বীন।
+
+অর্থঃ\n\n
+
+বলুন, হে কাফেরকূল, আমি এবাদত করিনা, তোমরা যার এবাদত কর। এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর। তোমরা এবাদতকারী নও, যার এবাদত আমি করি। তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে।"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

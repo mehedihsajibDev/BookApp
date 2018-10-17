@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Asor">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="\n\nসূরা আছর\n\n
+আরবি সূরাঃ\n\n
+
+بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ
+
+وَالْعَصْرِ (1) إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ (2)إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ (3)
+
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n
+
+(১) ওয়াল ‘আছর
+(২) ইন্নাল ইনসা-না লাফী খুস্র
+(৩) ইল্লাল্লাযীনা আ-মানু ওয়া ‘আমিলুছ ছা-লেহা-তে, ওয়া তাওয়া-ছাও বিল হাকক্বে ওয়া তাওয়া-ছাও বিছ্ ছাব্র ।
+
+অনুবাদ :\n\n
+
+পরম করুণাময় অসীম দয়ালু আল্লাহর নামে (শুরু করছি)
+
+(১) কালের শপথ!
+(২) নিশ্চয়ই সকল মানুষ অবশ্যই ক্ষতির মধ্যে রয়েছে।
+(৩) তারা ব্যতীত যারা (জেনে-বুঝে) ঈমান এনেছে ও সৎকর্ম সম্পাদন করেছে এবং পরস্পরকে ‘হক’-এর উপদেশ দিয়েছে ও পরস্পরকে ধৈর্য্যের উপদেশ দিয়েছে।"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

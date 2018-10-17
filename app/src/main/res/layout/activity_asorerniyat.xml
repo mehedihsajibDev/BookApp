@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Asorerniyat">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:padding="20sp"
+                android:layout_marginTop="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="আছরের নামাজ\n\n
+আছরের নামায মোট ৮ রাকাত। কোন লাকড়ির ছায়া দ্বিগুণ হওয়ার পর হইতে সূর্যাস্তের ১৫/২০ মিনিট পূর্বে পর্যন্ত আছরের নামাযের সময় থাকে।
+\n\nআছরের চার রাকায়াত সুন্নাত নামাযের নিয়ত
+বাংলায় : (নাওয়াইত ুআন্ উসাল্লিয়া লিল্লা-হি তাআলা আরবাআ রাকায়াতি সালাতিল আছরি সুন্নাতু রাসূলিল্লা-হি তাআলা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।)
+\n\nআছরের চার রাকায়াত ফরজ নামাযের নিয়ত
+বাংলায় : (নাওয়াইত ুআন্উসাল্লিয়া লিল্লা-হি তাআলা আরবাআ রাকায়াতি সালাতিল আছরি ফারজুল্লা-হি তাআলা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।)"
+
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

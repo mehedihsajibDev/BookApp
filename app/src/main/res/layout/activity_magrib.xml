@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Magrib">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:padding="20sp"
+                android:layout_marginTop="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="মাগরিবের নামাজ\n\n
+মাগরিবের নামায মোট ০৭ রাকায়াত। সূর্যাস্তের পর হইতে মাগরিবের নামাযের সময় হয় মাগরিবের ওয়াক্ত অতি অল্পকাল স্থায়ী।
+\n\nমাগরিবের ৩ রাকায়াত ফরজ নামাযের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা ছালাছা রাকয়াতি সালাতিল মাগরিব ফারজুল্লা-হি তাআলা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।)
+
+\n\nমাগরিবের ২ রাকায়াত সুন্নাত ফরজ নামাযের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা রাকয়াতাই সালাতিল মাগরিবি সুন্নাতু রাসূলিল্লা-হি তায়ালা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।)
+\nউক্ত দুই রাকায়াত সুন্নত নামায শেষ হইলে দুই রাকয়াত নফল নামাজ পরিবেন।"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

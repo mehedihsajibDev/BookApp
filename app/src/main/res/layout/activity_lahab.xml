@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Lahab">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="\n\nসুরা-লাহাব\n\n
+আরবি সূরাঃ\n\n
+
+تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
+مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ
+سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ
+وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ
+فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n
+তাব্বাত ইয়াদা আবি লাহাবিউ ওয়াতাব্ব। মা আগনা আ'নহুমালুহু ওয়ামা কাসাব। সাইয়াসলা নারান যাতালাহাব। ওয়ামরা আতুহু হাম্মা লাতাল হাতাব। ফি যিদিহা হাবলুম্মিম মাসাদ।
+
+অর্থঃ\n\n
+
+আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে, কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে। সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে এবং তার স্ত্রীও-যে ইন্ধন বহন করে, তার গলদেশে খর্জুরের রশি নিয়ে।"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

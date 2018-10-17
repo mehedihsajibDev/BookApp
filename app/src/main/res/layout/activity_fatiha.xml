@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fatiha">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="সুরা-ফাতিহা \n\n
+আরবি সূরাঃ \n\n
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+الرَّحْمَٰنِ الرَّحِيمِ
+مَالِكِ يَوْمِ الدِّينِ
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n
+
+আলহামদুলিল্লাহি রাব্বীল আ'লামীন। আররাহমানির রাহীম। মা-লিকী ইয়াউমিদ্দ্বীন। ইয়্যাকা-না'বুদু ওয়া ইয়্যাকা নাসতায়ীন। ইহদিনাস-সিরাতাল মুসতাক্বীম। সিরাত্বাল লাযিনা আন-আ'মতা আ'লাইহিম।গাইরিল মাগদুবি আ'লাইহিম। ওয়ালাদ্দুয়াল্লীন। আমীন।
+
+\n\nঅর্থ:
+
+শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।
+
+যাবতীয় প্রশংসা আল্লাহ তাআলার যিনি সকল সৃষ্টি জগতের পালনকর্তা।যিনি নিতান্ত মেহেরবান ও দয়ালু।যিনি বিচার দিনের মালিক।আমরা একমাত্র তোমারই ইবাদত করি এবং শুধুমাত্র তোমারই সাহায্য প্রার্থনা করি।আমাদেরকে সরল পথ দেখাও,সে সমস্ত লোকের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের প্রতি তোমার গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে।"
+                android:textColor="#000" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

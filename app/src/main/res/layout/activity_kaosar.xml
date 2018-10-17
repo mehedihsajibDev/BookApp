@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Kaosar">
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="\n\nসুরা-কাউসার\n\n
+আরবি সূরাঃ\n\n
+
+إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
+فَصَلِّ لِرَبِّكَ وَانْحَرْ
+إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n
+ইন্না আ'ত্বাইনা কাল কাউসার। ফাসাল্লিলি রাব্বাকা ওয়ানহার। ইন্না শা'নিয়াকা হুয়াল আবতার।
+
+অর্থঃ\n\n
+
+নিশ্চয় আমি আপনাকে কাওসার দান করেছি। অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন। যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।"
+                android:textColor="#000" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradint"
+    tools:context=".Doyalist">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+               android:id="@+id/fatihaid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:text="সুরা ফাতিহা"
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/ikhlasid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:text="সুরা আল ইখলাস"
+                android:textSize="30sp" />
+            <Button
+               android:id="@+id/kaosarid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:text="সুরা আল কাওসার"
+                android:textSize="30sp" />
+            <Button
+                android:id="@+id/kafirunid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:textSize="30sp"
+                android:text="সুরা কাফিরুন"/>
+            <Button
+                android:id="@+id/lahabid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:textSize="30sp"
+                android:text="সুরা লাহাব"/>
+            <Button
+               android:id="@+id/asorid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:textSize="30sp"
+                android:text="সুরা আসর"/>
+            <Button
+                android:id="@+id/nasid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:textSize="30sp"
+                android:text="সুরা নাস"/>
+            <Button
+                android:id="@+id/kuraisid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:textSize="30sp"
+                android:text="সুরা আল কুরাইশ"/>
+            <Button
+                android:id="@+id/maunid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:textSize="30sp"
+                android:text="সুরা-মাঊন"/>
+            <Button
+                android:id="@+id/falakid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:textSize="30sp"
+                android:text="সুরা আল ফালাক"/>
+            <Button
+                android:id="@+id/filidiid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttongrdnt"
+                android:textSize="30sp"
+                android:text="সুরা-ফীল"/>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

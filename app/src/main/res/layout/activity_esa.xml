@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Esa">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:padding="20sp"
+                android:layout_marginTop="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="bold"
+                android:gravity="center"
+               android:text="\n\nএশার নামাজ
+
+\n\nএশার ৪ রাকায়াত সুন্নত নামাজের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা আরবাআ রাকয়াতি এশায়ি সুন্নাতু রাসূলিল্লা-হি তায়ালা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।)
+
+\n\nএশার চার রাকায়াত ফরজ নামাজের নিয়ত
+বাংলায় : (নাওয়াইত ুআন্ উসাল্লিয়া লিল্লা-হি তাআলা আরবাআ রাকয়াতি এশায়ি ফারজুল্লা-হি তায়ালা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।
+
+\n\nএশার দুই রাকায়াত সুন্নাত নামাজের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা রাকায়াতি সালাতিল এশায়ি সুন্নাতু রাসুূলিল্লা-হি তাআলা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।)"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

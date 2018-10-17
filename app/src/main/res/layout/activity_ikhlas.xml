@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Ikhlas">
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="\n\nসুরা-ইখলাস \n\n
+আরবি সূরাঃ\n\n
+
+قُلْ هُوَ اللَّهُ أَحَدٌ
+اللَّهُ الصَّمَد
+لَمْ يَلِدْ وَلَمْ يُولَدْ
+وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
+
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n
+
+
+ক্বুল হুয়াল্লাহু আহাদ। আল্লাহুসসামাদ। লাম ইয়ালিদ, ওয়ালাম ইউলাদ। ওয়ালাম ইয়াকুল্লাহু কুফুয়ান আহাদ।
+
+অর্থঃ\n\n
+
+বলুন, তিনি আল্লাহ, এক, আল্লাহ অমুখাপেক্ষী, তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি এবং তার সমতুল্য কেউ নেই।"
+                android:textColor="#000" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

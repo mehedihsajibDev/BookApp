@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Kurais">
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="\n\nসুরা-কুরাইশ\n\n
+আরবি সূরাঃ\n\n
+
+لِإِيلَافِ قُرَيْشٍ
+إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ
+فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ
+الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ
+
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n
+লি ইলাফি ক্বুরাইশ; ঈলা ফিহিম রিহ লাতাশশিতা ইওয়াসসাইফ। ফাল ইয়া'বুদু রাব্বা হাযাল বাইত। আল্লাযি আত আ'মাহুম মিন যু'ঈ। ওয়া আমারাহুম মিন খাউফ।
+
+অর্থঃ\n\n
+
+কোরাইশের আসক্তির কারণে, আসক্তির কারণে তাদের শীত ও গ্রীষ্মকালীন সফরের। অতএব তারা যেন এবাদত করে এই ঘরের পালনকর্তার যিনি তাদেরকে ক্ষুধায় আহার দিয়েছেন এবং যুদ্ধভীতি থেকে তাদেরকে নিরাপদ করেছেন।"
+                android:textColor="#000" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sajib.namajerdoya">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Doyalist" />
+        <activity android:name=".Fatiha" />
+        <activity android:name=".Ikhlas" />
+        <activity android:name=".Kaosar" />
+        <activity android:name=".Kafirun" />
+        <activity android:name=".Lahab" />
+        <activity android:name=".Asor" />
+        <activity android:name=".Nas" />
+        <activity android:name=".Kurais" />
+        <activity android:name=".Maun" />
+        <activity android:name=".Falak" />
+        <activity android:name=".Fil" />
+        <activity android:name=".NamajerHadis" />
+        <activity android:name=".Niyatlist" />
+        <activity android:name=".Fojor" />
+        <activity android:name=".Johor" />
+        <activity android:name=".Asorerniyat" />
+        <activity android:name=".Magrib" />
+        <activity android:name=".Esa" />
+        <activity android:name=".Bitore" />
+        <activity android:name=".Amol" />
+        <activity android:name=".Main2Activity"></activity>
+    </application>
+
+</manifest>

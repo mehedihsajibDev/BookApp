@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Falak">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="\n\nসুরা-ফালাক\n\n
+আরবি সূরাঃ\n\n
+
+قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ
+مِن شَرِّ مَا خَلَقَ
+وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
+وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
+وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n ক্বুল আউযুবি রাব্বিল ফালাক্ব। মিন শাররিমা খালাক্ব। ওয়ামিন শাররি গাসিক্বিন ইযা ওয়াক্বাব। ওয়ামিন শাররিন নাফফাসাতি ফিল ও'ক্বাদ। ওয়ামিন শাররি হাসিদিন ইযা হাসাদ।
+
+অর্থঃ\n\n
+
+বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের পালনকর্তার, তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে, অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয়, গ্রন্থিতে ফুঁৎকার দিয়ে জাদুকারিনীদের অনিষ্ট থেকে এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

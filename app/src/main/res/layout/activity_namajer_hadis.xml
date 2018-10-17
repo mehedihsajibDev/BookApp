@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NamajerHadis">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="\n\nহাদিস সমূহঃ\n\n১. হজরত রসুলে পাক (সা.) বলেছেন, আল্লাহপাক সর্বপ্রথম আমার উম্মতের জন্য সালাত ফরজ করেছেন এবং রোজ হাশরে সর্বাগ্রে একমাত্র সালাতের হিসাব নেওয়া হবে।\n\n২. যে ব্যক্তি পাঁচ ওয়াক্ত সালাত (নামাজ) রুকু-সেজদা ও অজু সমেত আদায় করল- তার জন্য দোজখ হারাম হয়ে যায়।\n\n
+৩. সালাত দীন-ইসলামের খুঁটি স্বরূপ।\n\n ৪. সালাদ দেলের নূর স্বরূপ। ৫. মানুষ সালাতে দাঁড়ালে বেহেশতের দরজা তার জন্য খুলে যায়।\n\n৬. সেজদা অবস্থায় আল্লাহপাকের সান্নিধ্য বেশি হয়। \n\n
+৭. যে ব্যক্তি একান্ত মন-দিলে ওয়াক্ত মতো সালাত আদায় করে সে প্রকৃত মোমিন।\n\n৮. দেহের জন্য যে রূপ মক্তব-দীনের জন্য তেমন সালাত।\n\n৯. সেজদায় ব্যবহৃত অঙ্গ-প্রত্যঙ্গকে দোজখের আগুনের জন্য হারাম করা হয়েছে।\n\n
+১০. ওয়াক্ত মতো সালাত আদায় করা আল্লাহর কাছে সর্বাপেক্ষা প্রিয়।"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Johor">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:padding="20sp"
+                android:layout_marginTop="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text=" জোহরের নাময মোট ১২ রাকাত। সূর্য মাথার উপর হইতে পশ্চিম্ দিকে একটু হেলিয়া পড়িলেই জোহরের নামাযের ওয়াক্ত আরম্ভ হয় এবং কোন কিছুর ছায়া দ্বিগুণ হইলে জোহরের ওয়াক্ত শেষ হইয়া যায়।
+
+\n\nজোহরের ৪ রাকায়াত সুন্নত নামাজের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-তাআলা আরবাআ রাকয়াতি সালাতিজ জোহরি সুন্নাতু রাসুলিল্লা-হি তায়ালা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার। )
+
+\n\nজোহরের ৪ রাকায়াত ফরজ নামাজের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা আরবাআ রাকয়াতি সালাতিজ জোহরি ফারজুল্লাহি তাআলঅ মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।)
+
+\n\nজোহরের ২ রাকায়াত সুন্নত নামাজের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা রাকায়াতাই সালাতিজ জোহরি সুন্নাতি রাসূলিল্লা-হি তাআলা মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।
+\n\nজোহরের ২ রাকায়াত নফল নামাজের নিয়ত
+বাংলায় : (নাওয়াইতু আন্ উসাল্লিয়া লিল্লা-হি তাআলা রাকয়াতাই সালাতিল নাফলি মুতাওয়াজজিহান ইলা জিহাতিল কাবাতিশ শারীফাতি আল্লাহু আকবার।) "
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

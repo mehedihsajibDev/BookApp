@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Nas">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="\n\nসুরা-নাস\n\n
+আরবি সূরাঃ\n\n
+
+قُلْ أَعُوذُ بِرَبِّ النَّاسِ
+مَلِكِ النَّاسِ
+إِلَٰهِ النَّاسِ
+مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
+الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ
+مِنَ الْجِنَّةِ وَالنَّاسِ
+
+\n\nউচ্চারণঃ\n
+
+বিসমিল্লাহির রাহমানির রাহীম\n ক্বুল আউযুবি রাব্বিন্নাস। মালিকিন্নাস। ইলাহিন্নাস। মিন শাররিল ওয়াসওয়াসিল খান্নাস। আল্লাযি ওয়াসইউসু ফিসুদুরিন্নাস। মিনাল জিন্নাতি ওয়ান্নাস।
+
+অর্থঃ\n\n
+
+বলুন, আমি আশ্রয় গ্রহণ করিতেছি মানুষের পালনকর্তার, মানুষের অধিপতির, মানুষের মা’বুদের তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্নগোপন করে, যে কুমন্ত্রণা দেয় মানুষের অন্তরে, জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
