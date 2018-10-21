@@ -9,5 +9,6 @@ public class Kaosar extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_kaosar);
+        this.setTitle("");
     }
 }

@@ -9,5 +9,6 @@ public class NamajerHadis extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_namajer_hadis);
+        this.setTitle("");
     }
 }

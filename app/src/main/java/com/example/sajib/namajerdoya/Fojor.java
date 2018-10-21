@@ -9,5 +9,6 @@ public class Fojor extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fojor);
+        this.setTitle("");
     }
 }

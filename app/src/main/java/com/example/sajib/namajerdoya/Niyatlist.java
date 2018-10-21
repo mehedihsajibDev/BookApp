@@ -12,6 +12,7 @@ private Button fojor,johor,asor,magrib,esa,biter;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_niyatlist);
+        this.setTitle("");
         fojor=findViewById(R.id.fozorid);
         johor=findViewById(R.id.johorerid);
         asor=findViewById(R.id.asoreniyatid);
